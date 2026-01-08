@@ -1,0 +1,6 @@
+
+BEGIN;
+
+CREATE SCHEMA IF NOT EXISTS atlas_gold;
+
+COMMIT;
